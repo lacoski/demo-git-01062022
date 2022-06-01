@@ -1,0 +1,1 @@
+# Mô tả đầu tiên về git
